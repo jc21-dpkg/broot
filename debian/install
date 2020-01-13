@@ -1,1 +1,1 @@
-target/release/* /usr/bin
+target/release/broot /usr/bin
